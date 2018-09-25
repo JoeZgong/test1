@@ -8,8 +8,6 @@
 #include "ProgressBar.h"
 
 
-
-
 int main()
 {
 	ProgressBar *gProgressBar;

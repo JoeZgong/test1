@@ -6,7 +6,7 @@
 #include <Windows.h>
 
 #include "ProgressBar.h"
-123
+1234568
 ;l;l;
 int main()
 {
